@@ -15,7 +15,6 @@
 	 - Partie 1 : Représentation temporelle et fréquentielle
 		1.Traçage de x(t)
 		<img width="798" alt="signal temporel" src="https://user-images.githubusercontent.com/86896531/213705295-92fcd3df-2d18-4291-8dec-03a2ca78fee0.png">
-		<img width="798" alt="signal temporel" src="https://user-images.githubusercontent.com/86896531/213706452-ffa91768-3677-4c06-ba55-e314a6d8c7c1.png">
 
 		2.Commande fft
 		<img width="797" alt="signal fréquentiel" src="https://user-images.githubusercontent.com/86896531/213705376-5c858521-8a85-498e-a84a69e2957db82.png">
