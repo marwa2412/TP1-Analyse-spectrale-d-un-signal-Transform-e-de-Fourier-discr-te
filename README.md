@@ -6,7 +6,10 @@
 	dans l’analyse et l’interprétation des signaux physiques réels.
 	
 ## Introduction
-	L'analyse spectrale d'un signal consiste à étudier la répartition de l'énergie du signal dans le domaine fréquentiel. La Transformée de Fourier Discrète 	 (DFT) est l'outil mathématique utilisé pour effectuer cette analyse. La DFT transforme un signal temporel en un signal fréquentiel en utilisant une série de 	      coefficients de Fourier. Les coefficients de la DFT peuvent être utilisés pour calculer la fréquence dominante d'un signal, et pour identifier les 		composantes fréquentielles d'un signal.
+	L'analyse spectrale d'un signal consiste à étudier la répartition de l'énergie du signal dans le domaine fréquentiel. La Transformée de Fourier Discrète
+	(DFT) est l'outil mathématique utilisé pour effectuer cette analyse. La DFT transforme un signal temporel en un signal fréquentiel en utilisant une série 
+	de coefficients de Fourier. Les coefficients de la DFT peuvent être utilisés pour calculer la fréquence dominante d'un signal, et pour identifier les 	
+	composantes fréquentielles d'un signal.
 
 ## Réalisation du TP
 	 - Partie 1 : Représentation temporelle et fréquentielle
@@ -34,7 +37,8 @@
 		5. Signal xnoise
 		![image](https://user-images.githubusercontent.com/86896531/213667596-d693ccc6-bcfd-4a46-bebc-af5422301ee2.png)
 		
-			•On a combiné le signal x(t) avec le signal bruit, ce qui a donné le signal xnoise, puis on trace sa représentation dans le domaine 				 fréquentiel 
+			•On a combiné le signal x(t) avec le signal bruit, ce qui a donné le signal xnoise, puis on trace sa représentation dans le domaine 	
+			fréquentiel 
 			sous forme du signal ynoise .
 		6.Sound
 		![image](https://user-images.githubusercontent.com/86896531/213667621-9843ca37-573a-4324-afb8-a61f28902af8.png)
@@ -44,7 +48,8 @@
 	 - Partie 2 : Analyse fréquentielle du chant du rorqual bleu
 	![image](https://user-images.githubusercontent.com/86896531/213667656-54f90f87-f176-437b-9703-546be7183aa0.png)
 	
-			•On a d’abord récupéré les valeurs les valeurs et fréquences du signal et on a extrait un échantillon, stocké par la suite dans la variable 			     chant. 
+			•On a d’abord récupéré les valeurs les valeurs et fréquences du signal et on a extrait un échantillon, stocké par la suite dans la variable
+			chant. 
 			•Ainsi on a pu tracer le signal dans le domaine temporel et puis dans le domaine fréquentiel grâce à la transformée de fourrier.	 
 
 ## Conclusions
