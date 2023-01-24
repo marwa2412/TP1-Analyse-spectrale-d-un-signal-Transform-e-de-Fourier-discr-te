@@ -1,15 +1,15 @@
 # TP1: Analyse spectrale d'un signal & Transformée de Fourier discrète
-## Objectifs 
-	1. Représentation de signaux et applications de la transformée de Fourier discrète
-	(TFD) sous Matlab. 
-	2. Evaluation de l’intérêt du passage du domaine temporel au domaine fréquentiel 
-	dans l’analyse et l’interprétation des signaux physiques réels.
-	
 ## Introduction
 	L'analyse spectrale d'un signal consiste à étudier la répartition de l'énergie du signal dans le domaine fréquentiel. La Transformée de Fourier Discrète
 	(DFT) est l'outil mathématique utilisé pour effectuer cette analyse. La DFT transforme un signal temporel en un signal fréquentiel en utilisant une série 
 	de coefficients de Fourier. Les coefficients de la DFT peuvent être utilisés pour calculer la fréquence dominante d'un signal, et pour identifier les 	
 	composantes fréquentielles d'un signal.
+	
+## Objectifs 
+	1. Représentation de signaux et applications de la transformée de Fourier discrète
+	(TFD) sous Matlab. 
+	2. Evaluation de l’intérêt du passage du domaine temporel au domaine fréquentiel 
+	dans l’analyse et l’interprétation des signaux physiques réels.
 
 ## Réalisation du TP
 	 - Partie 1 : Représentation temporelle et fréquentielle
